@@ -34,6 +34,10 @@ This project is a work sample of insurance business knowledge combined with AI (
 
 
 ## Power BI - Data Model
-
+### Table List
+* auto_claim_v2: this table hosts the injury claim records with liability, accident location, claim payout, litigation cost, and duty breach by insured drivers.
+*  zipcode_dim_tb: this is a dimension table of Connecticut zipcode with country and city name. This help Power BI to plot the map correctly. Otherwise, Power BI sometimes mistaken a US city with another city with the same name located in Europe or Australia. This table is linked to the zipcode in the "auto_claim_v2"
+*  Calendar_TB: this is a time table that enables Power BI to sort date correctly. Otherwise, Power BI would sort Monday through Friday alphabetically... (horrible!)
+*  Calculated Measures: this table houses all the aggreated calculation such as average cycle time, average litigation cost, and projected saving of claim payout if Telematics works.
 <img width="643" height="389" alt="power_bi_data_model" src="https://github.com/user-attachments/assets/7d4adf14-87bd-4f68-9689-cc77697719a0" />
 
