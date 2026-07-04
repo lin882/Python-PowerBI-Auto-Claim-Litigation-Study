@@ -44,8 +44,18 @@ This project is a work sample of insurance business knowledge combined with AI (
 ## Design Q&A
 ### Did AI build the dashboard for you?
 No!!! AI suggested the metrics and charts but Gemini didn't have access to my Power BI app. I adapted the ideas from AI and built the visuals, calculated measures, and data model by hand.
+### Did AI color the dashboard for you?
+No!!! I practiced my taste and judgement with my bare hands. I analyzed insurance company logo and found that most companies use blue and red. Therefore, I stayed with those two colors.
+### Did AI generate the dataset and you simply took it?
+No!!! I asked AI to revise the dataset for more than 10 times. AI doesn't have enough knowledge about how insurance data should look like and mingles unrelated topics together. I worked hard to unpack them and set them straight.
+
 ### Why did you use AI in this project? Why not find a Kaggle or public dataset?
-I want to learn AI tools and upskill myself! Also it's an opportinuty to practice insurance business knowledge.
+I wanted to learn AI tools and upskill myself! Also I took this as an opportinuty to practice insurance business knowledge as a senior data analyst.
+### How much token did you burn? Paid for any subscription?
+I don't know... I didn't pay for any of the tools I used. They are free of charge within the usage limit.
+### How much time did you spend on this?
+35-burning hours plus 3 days of complete rest.
+
 
 
 
