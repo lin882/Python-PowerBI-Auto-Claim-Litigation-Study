@@ -41,3 +41,11 @@ This project is a work sample of insurance business knowledge combined with AI (
 *  Calculated Measures: this table houses all the aggreated calculation such as average cycle time, average litigation cost, and projected saving of claim payout if Telematics works.
 <img width="643" height="389" alt="power_bi_data_model" src="https://github.com/user-attachments/assets/7d4adf14-87bd-4f68-9689-cc77697719a0" />
 
+## Design Q&A
+### Did AI build the dashboard for you?
+No!!! AI suggested the metrics and charts but Gemini didn't have access to my Power BI app. I adapted the ideas from AI and built the visuals, calculated measures, and data model by hand.
+### Why did you use AI in this project? Why not find a Kaggle or public dataset?
+I want to learn AI tools and upskill myself! Also it's an opportinuty to practice insurance business knowledge.
+
+
+
