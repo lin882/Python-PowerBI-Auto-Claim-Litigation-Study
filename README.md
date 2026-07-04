@@ -60,8 +60,8 @@ I don't know... I didn't pay for any of the tools I used. They are free of charg
 ### How much time did you spend on this?
 35-burning hours plus 3 days of complete rest.
 
-## Acknowledement
-Special thanks to Bryan and Marina for sharing your knowledge!
-Big thanks to my brother Safin and LinkedIn friend James for supporting me in trying and learning AI tools.
+## Acknowledgement
+* Special thanks to Bryan and Marina for sharing knowledge and reviewing the dashboard drafts.
+* Big thanks to my brother Safin and LinkedIn friend James for supporting me in trying and learning AI tools.
 
 
