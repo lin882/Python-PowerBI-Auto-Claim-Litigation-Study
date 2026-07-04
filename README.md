@@ -48,6 +48,10 @@ No!!! AI suggested the metrics and charts but Gemini didn't have access to my Po
 No!!! I practiced my taste and judgement with my bare hands. I analyzed insurance company logo and found that most companies use blue and red. Therefore, I stayed with those two colors.
 ### Did AI generate the dataset and you simply took it?
 No!!! I asked AI to revise the dataset for more than 10 times. AI doesn't have enough knowledge about how insurance data should look like and mingles unrelated topics together. I worked hard to unpack them and set them straight.
+### Show an example? What's wrong with AI's output?
+Here's a screenshot of the dashboard.
+
+<img width="960" height="720" alt="compare_before_after" src="https://github.com/user-attachments/assets/75f61216-a954-416e-a849-49fe4706cc84" />
 
 ### Why did you use AI in this project? Why not find a Kaggle or public dataset?
 I wanted to learn AI tools and upskill myself! Also I took this as an opportinuty to practice insurance business knowledge as a senior data analyst.
